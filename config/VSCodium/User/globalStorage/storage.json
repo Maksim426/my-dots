@@ -1,0 +1,74 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "d3cf5694d79fffbf952ebaa3a37cf5ad3f42ae17b0c532e2b3a573117dab0a3a",
+    "telemetry.devDeviceId": "304750ca-6934-42d4-92f0-7ef2a882eb49",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1790406275193"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1790353309785": "__default__profile__",
+            "1790355360761": "__default__profile__",
+            "1790403605478": "__default__profile__",
+            "1790406241161": "__default__profile__",
+            "1790406275193": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#040404",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#e2e2e2",
+            "background": "#040404",
+            "editorBackground": "#040404",
+            "titleBarBackground": "#0c0c0c",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#0c0c0c",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#090909",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "panelBackground": "#040404",
+            "editorGroupBorder": "#0f0f0f",
+            "agentsPanelBackground": "#090909",
+            "agentsPanelBorder": "rgba(226, 226, 226, 0.15)",
+            "statusBarBackground": "#0c0c0c",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#0c0c0c",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false,
+            "modernUI": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/maksim/.config/VSCodium/Backups/1790406275193",
+            "uiState": {
+                "mode": 0,
+                "x": 16,
+                "y": 10,
+                "width": 457,
+                "height": 580
+            }
+        },
+        "openedWindows": []
+    }
+}

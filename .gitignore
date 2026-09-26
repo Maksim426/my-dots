@@ -1,0 +1,10 @@
+config/google-chrome/
+config/chromium/
+config/mozilla/
+config/BraveSoftware/
+config/opera/
+config/edge/
+config/kde*
+config/plasma*
+*.log
+.DS_Store

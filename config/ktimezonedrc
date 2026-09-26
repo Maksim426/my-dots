@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=Europe/Simferopol
+ZoneinfoDir=/usr/share/zoneinfo
+Zonetab=/usr/share/zoneinfo/zone.tab

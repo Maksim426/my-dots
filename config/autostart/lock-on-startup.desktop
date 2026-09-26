@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Lock Screen on Startup
+Exec=loginctl lock-session
+X-GNOME-Autostart-enabled=true

@@ -1,0 +1,11 @@
+hl.config
+    input = {
+        kb_layout = "us,ru",
+        kb_options = "grp:alt_shift_toggle",
+    },
+    decoration = {
+        active_opacity = 0.88,
+        inactive_opacity = 0.78,
+    },
+})
+hl.exec_once('sh -c "sleep 1.5 && hyprctl dispatch \'hl.dsp.global(\\"caelestia:lock\\")\'"')
